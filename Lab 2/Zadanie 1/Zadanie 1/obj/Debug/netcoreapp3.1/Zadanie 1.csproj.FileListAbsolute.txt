@@ -1,0 +1,13 @@
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\bin\Debug\netcoreapp3.1\Zadanie 1.exe
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\bin\Debug\netcoreapp3.1\Zadanie 1.deps.json
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\bin\Debug\netcoreapp3.1\Zadanie 1.runtimeconfig.json
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\bin\Debug\netcoreapp3.1\Zadanie 1.runtimeconfig.dev.json
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\bin\Debug\netcoreapp3.1\Zadanie 1.dll
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\bin\Debug\netcoreapp3.1\Zadanie 1.pdb
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\obj\Debug\netcoreapp3.1\Zadanie 1.csprojAssemblyReference.cache
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\obj\Debug\netcoreapp3.1\Zadanie 1.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\obj\Debug\netcoreapp3.1\Zadanie 1.AssemblyInfo.cs
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\obj\Debug\netcoreapp3.1\Zadanie 1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\obj\Debug\netcoreapp3.1\Zadanie 1.dll
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\obj\Debug\netcoreapp3.1\Zadanie 1.pdb
+D:\Visual Studio Projects\C#\Lab 2\Zadanie 1\Zadanie 1\obj\Debug\netcoreapp3.1\Zadanie 1.genruntimeconfig.cache
