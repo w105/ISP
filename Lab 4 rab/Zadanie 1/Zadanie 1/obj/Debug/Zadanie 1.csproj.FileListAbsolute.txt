@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\C#\Lab 4 rab\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.csprojAssemblyReference.cache
+D:\Visual Studio Projects\C#\Lab 4 rab\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\C#\Lab 4 rab\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.exe.config
+D:\Visual Studio Projects\C#\Lab 4 rab\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.exe
+D:\Visual Studio Projects\C#\Lab 4 rab\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.pdb
+D:\Visual Studio Projects\C#\Lab 4 rab\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.exe
+D:\Visual Studio Projects\C#\Lab 4 rab\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.pdb
