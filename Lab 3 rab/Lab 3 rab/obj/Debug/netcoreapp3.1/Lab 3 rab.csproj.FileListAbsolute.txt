@@ -1,0 +1,13 @@
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\obj\Debug\netcoreapp3.1\Lab 3 rab.csprojAssemblyReference.cache
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\obj\Debug\netcoreapp3.1\Lab 3 rab.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\obj\Debug\netcoreapp3.1\Lab 3 rab.AssemblyInfo.cs
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\obj\Debug\netcoreapp3.1\Lab 3 rab.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\bin\Debug\netcoreapp3.1\Lab 3 rab.exe
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\bin\Debug\netcoreapp3.1\Lab 3 rab.deps.json
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\bin\Debug\netcoreapp3.1\Lab 3 rab.runtimeconfig.json
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\bin\Debug\netcoreapp3.1\Lab 3 rab.runtimeconfig.dev.json
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\bin\Debug\netcoreapp3.1\Lab 3 rab.dll
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\bin\Debug\netcoreapp3.1\Lab 3 rab.pdb
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\obj\Debug\netcoreapp3.1\Lab 3 rab.dll
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\obj\Debug\netcoreapp3.1\Lab 3 rab.pdb
+D:\Visual Studio Projects\C#\Lab 3 rab\Lab 3 rab\obj\Debug\netcoreapp3.1\Lab 3 rab.genruntimeconfig.cache
